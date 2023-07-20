@@ -1,3 +1,3 @@
-module github.com/MowlCoder/pokedexcli
+module github.com/MowlCoder/go-repl-pokedex
 
 go 1.20

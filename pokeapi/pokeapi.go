@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/MowlCoder/pokedexcli/pokecache"
+	"github.com/MowlCoder/go-repl-pokedex/pokecache"
 	"io"
 	"net/http"
 	"time"
